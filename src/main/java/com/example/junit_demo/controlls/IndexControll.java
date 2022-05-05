@@ -16,7 +16,7 @@ public class IndexControll {
 
     @GetMapping("")
     public String method() {
-        return "hello world";
+        return "hello world1111";
     }
 
 }
